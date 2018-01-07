@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a0d91c6eb6b9c47adc55d2f3e5eed4, type: 3}
+  m_Name: Player Equipment
+  m_EditorClassIdentifier: 
+  meleeWeapon: {fileID: 11400000, guid: 53487877786be0d4999e080dbc0f0e45, type: 2}
